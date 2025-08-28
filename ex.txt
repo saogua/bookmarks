@@ -1,0 +1,73 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>主机啦Hostla博客_在这里聊聊建站</title>
+    <meta name="keywords" content="Hostla,主机啦,VPS,hostla博客,主机啦博客,VPS博客,VPS测评">
+<meta name="description" content="主机啦博客，在这里分享你的建站故事，发布最新的站长圈消息，咨询，在这里聊聊建站">
+    <style>
+        .container {
+            width: 60%;
+            margin: 10% auto 0;
+            background-color: #f0f0f0;
+            padding: 2% 5%;
+            border-radius: 10px
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+            ul li {
+                line-height: 2.3
+            }
+
+        a {
+            color: #20a53a
+        }
+    </style>
+</head>
+<body>
+
+
+
+
+    <div class="container">
+            <h1>因为博客被黑，不想搞了，好累，关站吧...</h1>
+
+
+             <p>不论有没有赚到钱，玩网络是我的一种青春吧，哈哈.有的没的网站居然搞了一大堆，也有许多网站各种原因关站，什么小说、影视、看咳咳、
+	     游戏私服、代刷网、教程网、论坛什么的一大堆，技术不咋地，玩的挺杂的。感谢一路支持Hostla博客，有用的文章想要就问我要吧~不过互联网
+	     不是法外之地，也许你一些不经意的行为就已经触犯法律了，就算你的服务器在海外也不要保有侥幸心理哦！</p><br>
+
+             <h3>不知不觉居然搞了好多有用的，没用的网站，汇个总吧...</h3>
+             <li>玩票公司官网 www.uaiyun.cn</li>
+              <li>卖服务器 www.aiwl.cc</li>
+               <li>卖挂机宝 www.cidaa.cn</li>
+               <li>微博加贴吧 www.zezefans.com</li>
+               <li>CSGO服务器 www.kodplay.com</li>
+               <li>CSGO天梯 top.kodplay.com</li>
+               <li>CSGO封禁 ban.kodplay.com</li>
+               <li>爱云付 pay.aiwl.cc</li>
+               <li>云付 www.uu.ci</li>
+               <li>小店 www.zc.ci</li>
+               <li>GTA联机 www.gtaip.com</li>
+               <li>码支付 www.uuyzf.com</li>
+               <li>易支付 www.uuyzf.cn</li>
+               <li>网址导航 123.uaiyun.cn</li>
+             <li>宝塔专业版 www.btpanel.cn</li>
+              <li>网页生成 h5.zc.ci</li>
+               <li>贴吧签到 tb.hostla.cn</li>
+                <li>卖物联卡 www.iot.tg</li>
+
+            <p style="text-align:center;">
+<audio controls autoplay="autoplay">
+      <source 
+      src="http://m701.music.126.net/20210904171400/f853ecf7c21280433e57f7c5246a26a4/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/9466587601/084a/375c/9
+      5be/66c315eb87bf07c23f991d6352b08eef.mp3" type="audio/mpeg">
+    </audio></p>
+        </ul>
+    </div>
+</body>
+
+</html>

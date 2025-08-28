@@ -1,0 +1,16 @@
+http://ping.chinaz.com
+http://ping.pe
+http://port.ping.pe
+https://ipcheck.need.sh
+https://tools.ipip.net/traceroute.php
+IP可用性检测工具  https://www.toolsdaquan.com/ipcheck
+
+
+https://ip-api.com/
+https://ipinfo.io/
+https://ifconfig.me/
+https://ip.ping0.cc/
+https://ip.skk.moe/
+https://www.ip2location.com/
+
+以前收藏的一些查ip的网站，希望可以帮到大佬

@@ -1,0 +1,3 @@
+https://www.inindex.com/biog(历代人物,历代文献,历代职官,历代机构)
+中國歷代人物傳記資料庫（CBDB）:https://projects.iq.harvard.edu/chinesecbdb
+https://github.com/cbdb-project/cbdb_sqlite

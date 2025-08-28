@@ -1,0 +1,54 @@
+wget -c --no-check-certificate
+
+wget -c --no-check-certificate https://windows.iso.st/cn_windows_10_PE_nat_x86_x64_with_virtio.iso
+
+wget -c --no-check-certificate
+===============================================================================
+下载整站:
+wget -r -np -nH  https://www.itbook.team/
+wget -c --no-check-certificate -r -np -nH  https://www.itbook.team
+
+
+wget -r -np -nH  https://file.iso.st/
+
+wget -r -np -nH  https://file.iso.st/oracle.dd
+===============================================================================
+Linux下载——下载文件的命令(wget):https://www.cnblogs.com/shamao/p/11354154.html
+
+wget命令
+wget命令是一个用来下载文件的命令，可以在后台运行，在用户退出之后仍能继续下载，支持代理服务器和断点续传功能，能够自动递归远程主机的目录，找到合乎条件的文件并将其下载到本地硬盘上。
+
+基本语法
+  wget [选项] 地址
+
+选项说明
+
+-b：启动后转入后台下载。
+-i 文件名：下载指定文件中的URL。
+-o 文件名：将下载文件重命名。
+-nd：下载时不创建目录，将所有文件下载到当前目录。
+-np：下载时不搜索上级目录，没有添加该参数将导致会下载当前目录的上级目录。
+-x：强制创建目录。
+-r：使用递归下载。
+-c：使用断点续传。
+-p：下载所有文件。
+-k：将相对路径转为绝对路径，脱机网页会用到。
+-L：递归下载时不进入其他主机，避免进入其他网页递归下载。
+
+使用举例
+
+wget -c -nd -np -r 网站地址
+
+下载整站: wget -c -r --no-check-certificate -nd -np -nH https://linux.iso.st
+
+
+
+
+
+
+mwget --count=6 --number=5  --timeout=2 https://www.shouce.ren
+
+
+wget -c -r --no-check-certificate -nd -np -nH https://www.shouce.ren
+
+

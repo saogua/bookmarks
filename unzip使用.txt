@@ -1,0 +1,29 @@
+安装:
+yum -y install unzip
+
+
+解压在当前文件夹下:
+
+unzip filename.zip
+
+解压到指定文件夹下:
+
+unzip filename.zip -d file_directory
+
+
+
+查看压缩文件中的内容而不解压压缩文件
+
+操作命令：unzip -l file.zip
+
+
+压缩命令:
+
+.zip格式语法：
+
+zip    压缩文件名 源文件           #压缩文件     （也能压缩目录,但只会压缩第一个目录,目录中的内容并没有压缩进去）
+zip -r 压缩文件名 源目录           #压缩目录
+
+
+
+

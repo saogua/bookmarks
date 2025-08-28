@@ -1,0 +1,53 @@
+主题Meterial Icon Theme
+
+Auto Rename Tag
+open in browser
+Live Server
+Path Intellisense
+stylelint
+格式化插件(eslint,vetur,Prettier - Code formatter)
+code runner
+Turbo Console Log
+Regex Previewer
+open php/html/js
+
+
+
+html:
+
+
+
+
+css:
+
+
+js:
+
+
+
+
+
+
+
+
+
+
+
+php:
+php debug
+PHP Intelephense
+PHP IntelliSense
+PHP DocBlocker
+Better Align
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+检查搬瓦工ip是否被墙:https://kiwivm.64clouds.com/main-exec.php?mode=blacklistcheck
+
+使用方法:先登录搬瓦工后台进入kiwi control cpanel面板,
+在浏览器地址栏粘贴上面网址,回车刷新,进入测试页面.
+如果当前套餐的 IP 已经被封,那么会出现红色的“IP BLOCKED”提示.
+
+检查IP是否被墙1:https://ipcheck.need.sh
+
+检查ip是否被墙2:https://ping.pe
+
+检查端口是否被墙:https://port.ping.pe 
+
+https://www.elifulkerson.com/projects/tcping.php
+
+检查vps到国内的网速:https://17ce.com
